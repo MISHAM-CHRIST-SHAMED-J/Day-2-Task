@@ -91,6 +91,7 @@ Example: This example describes the implementation of the window.object.
 <!DOCTYPE html>
 <html>
 <body>
+	
 	<script>
 		function show() {
 			var h = window.innerHeight;
