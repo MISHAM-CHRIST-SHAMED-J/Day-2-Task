@@ -22,7 +22,7 @@ scripts: It returns all script elements present in the document.
 
 Example: This example describes the implementation of the document.object. 
 
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -35,11 +35,7 @@ Example: This example describes the implementation of the document.object.
 </head>
 
 <body>
-	<h1> GeeksforGeeks</h1>
-	<button onclick="myFunction()">CLICK ME</button>
-	<p id="demo"></p>
-
-
+	
 	<script>
 		function myFunction() {
 			var title = document.title;
