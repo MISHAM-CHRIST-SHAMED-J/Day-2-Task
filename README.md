@@ -24,16 +24,6 @@ Example: This example describes the implementation of the document.object.
 
 <!DOCTYPE html>
 <html>
-
-<head>
-	<title>document's Properties</title>
-	<style>
-	h1 {
-		color: green;
-	}
-	</style>
-</head>
-
 <body>
 	
 	<script>
@@ -100,22 +90,7 @@ Example: This example describes the implementation of the window.object.
   
 <!DOCTYPE html>
 <html>
-
-<head>
-	<title> Window's Properties</title>
-	<style>
-		h1 {
-			color: green;
-		}
-	</style>
-</head>
-
 <body>
-	<h1>GeeksforGeeks</h1>
-	<button onclick="show()">Check</button>
-	<p id="prop"></p>
-
-
 	<script>
 		function show() {
 			var h = window.innerHeight;
